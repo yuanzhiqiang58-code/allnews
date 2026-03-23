@@ -1,5 +1,5 @@
-import { RSSItem, parseRSS, formatTime } from './rss-parser';
-import { getCache, setCache } from './storage';
+import { RSSItem, parseRSS, formatTime } from './rss-parser';       // 改 @/ 为 ./
+import { getCache, setCache } from './storage';                     // 改 @/ 为 ./
 
 export interface NewsCategory {
   id: string;
