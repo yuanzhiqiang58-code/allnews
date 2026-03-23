@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "build": "next telemetry disable && next build",
     "dev": "next dev",
-    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
