@@ -1,2 +1,1 @@
-# allnews
-allnews
+这个是一个免费的RSS代码
